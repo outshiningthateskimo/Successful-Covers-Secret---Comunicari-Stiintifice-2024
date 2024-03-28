@@ -4,4 +4,4 @@ Participated in the Student Research Conference within the Department of Statist
 For Romanian transcription follow this link:  
 *Pentru transciptul în română, mergi la:*   [README.ro.md](README.ro.md)
 
-[RO](tree/RO)
+[RO](../../tree/main/RO)
