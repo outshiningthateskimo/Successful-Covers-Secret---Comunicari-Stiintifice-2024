@@ -6,8 +6,8 @@ Participated in the Student Research Conference within the Department of Statist
 
 To view the project in your preferred language, please follow the links below:
 
-- [Romanian Version](../../tree/RO): Apasă aici pentru a vedea proiectul în limba română.
-- [English Version](../../tree/EN): Click here to view the project in English. *(in translation process)*
+- [Romanian Version](../../tree/RO):    Apasă aici pentru a vedea proiectul în limba română.
+- [English Version](../../tree/EN):    Click here to view the project in English. *(in translation process)*
 
 ## Note
 
