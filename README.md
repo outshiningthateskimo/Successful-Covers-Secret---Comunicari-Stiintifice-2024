@@ -1,8 +1,8 @@
 # Successful Covers Secret - Comunicări Științifice 2024
+<img src="https://github.com/outshiningthateskimo/Successful-Covers-Secret---Comunicari-Stiintifice-2024/assets/116450427/21208b6e-4065-4529-9942-806cf2959e78" width=250>
+
 
 ### Hi! Thank you for visiting this GitHub repository. It will be updated soon, stay tuned!
-### For now, you can find the presentation you may have just attended right [here](../../tree/RO).
-
 
 ## Context
 Participated in the Student Research Conference within the Department of Statistics and Econometrics. Performed an econometric analysis on various covers of the song Stand By Me by Ben E. King.
