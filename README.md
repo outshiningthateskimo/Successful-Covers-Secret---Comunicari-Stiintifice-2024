@@ -7,8 +7,8 @@ Sesiunea de Comunicări Științifice din 2024 în cadrul Departamentului de Sta
 
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center;">
-        <img src="https://github.com/outshiningthateskimo/Successful-Covers-Secret---Comunicari-Stiintifice-2024/assets/116450427/5f4660e4-a7ee-4987-b3be-7d1324241e75" style="max-width: 35%;">
-        <img src="https://github.com/outshiningthateskimo/Successful-Covers-Secret---Comunicari-Stiintifice-2024/assets/116450427/f696c67c-4457-45ef-9098-3db5c152bea2" style="max-width: 35%;">
+        <img src="https://github.com/outshiningthateskimo/Successful-Covers-Secret---Comunicari-Stiintifice-2024/assets/116450427/5f4660e4-a7ee-4987-b3be-7d1324241e75" style="max-width: 200px;">
+        <img src="https://github.com/outshiningthateskimo/Successful-Covers-Secret---Comunicari-Stiintifice-2024/assets/116450427/f696c67c-4457-45ef-9098-3db5c152bea2" style="max-width: 200px">
     </div>
     <div style="text-align: center;">
         <a href="https://open.spotify.com/playlist/7afhbug0wVcWrnsmXfu94t?si=51f474ccb8624614">Spotify</a>
